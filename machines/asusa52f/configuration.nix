@@ -5,7 +5,7 @@
     # infrastructure
       /etc/nixos/hardware-configuration.nix     # automatically generated for each machine
       ../../infrastructure/common.nix
-      ../../inftastructure/bootloaders/systemd-efi.nix
+      ../../infrastructure/bootloaders/systemd-efi.nix
       ../../infrastructure/networking/nm-wireless.nix
       ../../infrastructure/networking/nm-public-dns.nix
       ../../infrastructure/audio/pipewire.nix

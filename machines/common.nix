@@ -38,6 +38,9 @@
   documentation.info.enable = true; # info pages and the info command
   documentation.doc.enable = true; # documentation distributed in packages' /share/doc
 
+  # maximum number of latest generations in boot menu
+  boot.loader.systemd-boot.configurationLimit = 5;
+
   # system version
   system.stateVersion = "22.05";
 }

@@ -23,7 +23,6 @@
     tmux
     tree
     dfc
-    gitFull
   ];
 
   programs.bash.enableCompletion = true;
